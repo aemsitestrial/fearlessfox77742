@@ -8,7 +8,7 @@
 }
 
 .cards > ul > li {
-  background-color: green;
+  background-color: green !important;
 }
 
 .cards .cards-card-body {
